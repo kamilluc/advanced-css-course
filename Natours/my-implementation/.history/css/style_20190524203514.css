@@ -1,0 +1,23 @@
+/*
+COLORS:
+
+Light green: #7ed56f
+Medium green: #55c57a
+Dark green: #28b485
+
+*/
+/* BASIC RESET, NORMALIZE COULD BE USED BUT NOT REALLY NEEDED */
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  /* box-sizing: border-box; */
+}
+
+.header {
+  height: 200px;
+  width: 200px;
+  background-color: red;
+  margin: 0 auto;
+}
